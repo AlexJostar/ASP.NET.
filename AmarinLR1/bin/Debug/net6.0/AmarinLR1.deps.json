@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AmarinLR1/1.0.0": {
+        "runtime": {
+          "AmarinLR1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmarinLR1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
